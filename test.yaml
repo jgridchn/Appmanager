@@ -1,0 +1,10 @@
+#charset=utf-8
+login_input:
+  type:id
+  value:com.hundsun.om:id/acc_login_form_uid
+password_input:
+  type:id
+  value:com.hundsun.om:id/acc_login_form_pwd
+login_button:
+  type:id
+  value:com.hundsun.om:id/acc_tv_login_btn

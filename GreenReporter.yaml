@@ -1,0 +1,57 @@
+#charset=utf-8
+Green_check:
+  type:id
+  value:com.hundsun.om:id/main_greenpass_checkin
+#明细字段内容
+Licence_color:
+  type:id
+  value:com.hundsun.om:id/card_color_select
+Licence_color_sl:
+  type:name
+  value:"蓝"
+Licence_number:
+  type:id
+  value:com.hundsun.om:id/card_num_tv
+  
+#date:
+#  type:
+#  value:
+#station:
+#  type:
+#  value:
+lane:
+  type:id
+  value:com.hundsun.om:id/car_channel_select
+lane_sl:
+  type:xpath
+  value:"//*[contains(@resource-id,'com.hundsun.om:id/dialog_content')]//android.widget.LinearLayout[1]"
+serinal:
+  type:id
+  value:com.hundsun.om:id/flow_num_et
+category:
+  type:id
+  value:com.hundsun.om:id/goods_type_select
+category_sl:
+  type:xpath
+  value:"//*[contains(@resource-id,'com.hundsun.om:id/dialog_content')]//android.widget.LinearLayout[1]"
+#remarks:
+#  type:
+#  value:
+save:
+  type:id
+  value:com.hundsun.om:id/violate_checkin_next
+add:
+  type:id
+  value:com.hundsun.om:id/photo_add_text
+photo:
+  type:name
+  value:"相 册"
+photo_sl:
+  type:xpath
+  value:"//android.widget.GridView[1]//android.widget.RelativeLayout[1]"
+photo_save:
+  type:id
+  value:"com.hundsun.om:id/id_ok"
+left_back:
+  type:id
+  value:com.hundsun.om:id/common_header_left_back

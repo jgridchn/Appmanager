@@ -1,0 +1,20 @@
+#charset=utf-8
+Car_check:
+  type:id
+  value:com.hundsun.om:id/main_car_info
+#明细字段内容
+Licence_color:
+  type:id
+  value:com.hundsun.om:id/card_color_select
+Licence_color_sl:
+  type:name
+  value:"蓝"
+Licence_number:
+  type:id
+  value:com.hundsun.om:id/card_num_tv
+Illegal_text:
+  type:id
+  value:com.hundsun.om:id/violate_car_warning_date_msg
+left_back:
+  type:id
+  value:com.hundsun.om:id/common_header_left_back
